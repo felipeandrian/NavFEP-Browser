@@ -1,0 +1,51 @@
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Configurações locais
+*.env
+*.ini
+*.cfg
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+
+# Compilados do Cython
+*.c
+*.so
+
+# Arquivos de build/distribuição
+build/
+dist/
+*.egg-info/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Arquivos do Qt (gerados automaticamente)
+*.qrc
+*.pyc
+*.pyo
+*.qmlc
+*.jsc
+
+# Capturas de tela e mídia
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.gif
