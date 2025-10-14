@@ -42,10 +42,3 @@ dist/
 *.pyo
 *.qmlc
 *.jsc
-
-# Capturas de tela e mídia
-screenshots/
-*.png
-*.jpg
-*.jpeg
-*.gif
