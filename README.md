@@ -2,11 +2,6 @@
 ```markdown
 # 🌐 Navegador do FEP (NavFEP)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
-[![Build](https://github.com/seu-usuario/seu-repositorio/actions/workflows/python-app.yml/badge.svg)](https://github.com/seu-usuario/seu-repositorio/actions)
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-
 ![Ícone do Navegador](navfep.png)
 
 O **NavFEP** é um navegador web customizável construído em **Python + PySide6**, com foco em **privacidade**, **ferramentas de desenvolvedor** e **recursos modernos**.  
@@ -153,7 +148,7 @@ Visualização de documentos PDF diretamente em uma aba.
 ## 📜 Licença
 
 Este projeto é licenciado sob a **Licença MIT**.  
-Consulte o arquivo [`LICENSE`](LICENSE) para mais detalhes.
+Consulte o arquivo [`LICENSE`](LICENSE.txt) para mais detalhes.
 
 ---
 
@@ -162,3 +157,4 @@ Consulte o arquivo [`LICENSE`](LICENSE) para mais detalhes.
 **Felipe Andrian Peixoto**  
 Desenvolvido com foco em produtividade, aprendizado e experimentação.
 ```
+
