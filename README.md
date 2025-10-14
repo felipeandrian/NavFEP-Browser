@@ -153,6 +153,7 @@ Consulte o arquivo [`LICENSE`](LICENSE.txt) para mais detalhes.
 ## 👨‍💻 Autor
 
 **Felipe Andrian Peixoto**  
+felipe_andrian@hotmail.com
 Desenvolvido com foco em produtividade, aprendizado e experimentação.
 
 
