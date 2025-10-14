@@ -1,5 +1,5 @@
 
-# 🌐 Navegador do FEP (NavFEP) <img src="icons/navfep.png" alt="Ícone do Navegador" width="40">
+# 🌐 Navegador do FEP (NavFEP) <img src="navfep.png" alt="Ícone do Navegador" width="40">
 
 O **NavFEP** é um navegador web customizável construído em **Python + PySide6**.  
 Este projeto nasceu como um estudo de navegador funcional e cheio de possibilidades.
@@ -153,6 +153,7 @@ Consulte o arquivo [`LICENSE`](LICENSE.txt) para mais detalhes.
 
 **Felipe Andrian Peixoto**  
 Desenvolvido com foco em produtividade, aprendizado e experimentação.
+
 
 
 
