@@ -1,5 +1,4 @@
 
-```markdown
 # 🌐 Navegador do FEP (NavFEP)
 
 ![Ícone do Navegador](navfep.png)
@@ -156,5 +155,5 @@ Consulte o arquivo [`LICENSE`](LICENSE.txt) para mais detalhes.
 
 **Felipe Andrian Peixoto**  
 Desenvolvido com foco em produtividade, aprendizado e experimentação.
-```
+
 
