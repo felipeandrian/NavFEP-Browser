@@ -1,7 +1,7 @@
-# Arquivo: panels.py
+# panels/ai_panel.py
 
 from PySide6.QtCore import Signal
-from PySide6.QtWidgets import QWidget, QVBoxLayout, QTextBrowser, QLineEdit, QPushButton
+from PySide6.QtWidgets import QWidget, QVBoxLayout, QTextBrowser, QLineEdit, QPushButton, QHBoxLayout, QCheckBox
 
 class AIPanel(QWidget):
     """
